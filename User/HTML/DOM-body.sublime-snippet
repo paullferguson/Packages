@@ -1,0 +1,63 @@
+<snippet>
+    <content><![CDATA[
+<div id="main-container">
+    <header id="main-header" role="banner">
+        <hgroup>
+            <h2><a href="/" title="Homepage" >${1:Site}</a></h2>
+            <h3>subtitle</h3>
+        </hgroup>
+        <nav id="main-nav" role="Navigation">
+            <ul>
+                <li><a href="#" title="Anchor Title ">Anchor</a></li>
+                <li><a href="#" title="Anchor Title ">Anchor</a></li>
+                <li><a href="#" title="Anchor Title ">Anchor</a></li>
+                <li><a href="#" title="Anchor Title ">Anchor</a></li>
+                <li><a href="#" title="Anchor Title ">Anchor</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="main" role="main">
+        <section>
+            <article>
+                <header>
+                    <h1>Article h1</h1>
+                    <h2>Article h2 subtitle</h2>
+                </header>
+                <p>text text text text text <a href="#">Anchor</a> text text text</p>
+                <ul>
+                    <li>List Item</li>
+                    <li>List Item</li>
+                    <li>List Item</li>
+                    <li>List Item</li>
+                    <li>List Item</li>
+                </ul>
+                <footer>
+                    <h3>Article Footer</h3>
+                    <a href="#" type="author" title="Author">Steve</a>
+                    <a href="#" title="tag">tag</a>
+                </footer>
+            </article>
+        </section>
+        <aside>
+            <p>text text text text text <a>text mate</a> text text text</p>
+        </aside>
+    </div>
+
+    <footer id="main-footer">
+        <nav>
+            <ul id="footer-nav" role="Navigation">
+                <li><a href="#" title="Lorum ">Lorem</a></li>
+                <li><a href="#" title="Aliquam tincidunt ">Aliquam</a></li>
+                <li><a href="#" title="Morbi in ">Morbi</a></li>
+                <li><a href="#" title="Praesent dapibus, ">Praesent</a></li>
+                <li><a href="#" title="Pellentesque ">Pellentesque</a></li>
+            </ul>
+        </nav>
+    </footer>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>dombody</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

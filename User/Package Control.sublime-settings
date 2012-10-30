@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_last_run": 1350889932,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"CoffeeScript",
+		"Color Highlighter",
+		"jQuery Snippets pack",
+		"LiveReload",
+		"Markdown Preview",
+		"Nettuts+ Fetch",
+		"Open Recent Files",
+		"Package Control",
+		"Placeholders",
+		"Prefixr",
+		"Sass",
+		"SCSS Snippets",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"ZenCoding"
+	]
+}
