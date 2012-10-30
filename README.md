@@ -9,7 +9,7 @@ Many of these are nicely demonstrated by the ST2 guru @jeffrey_way as part of hi
 
 
 * Advanced New File
-* jQuery Snippets pack
+* jQuery Snippets Pack
 * Live Reload
 * Markdown Preview
 * Nettuts+ Fetch - set up with normalize, jQuery, Modernizer etc
@@ -17,8 +17,8 @@ Many of these are nicely demonstrated by the ST2 guru @jeffrey_way as part of hi
 * Package Control itself
 * Placeholders
 * Prefixr
-* SideBarEnhancements
-* SublimeLinter
+* Side Bar Enhancements
+* Sublime Linter
 * Zen Coding
 
 
